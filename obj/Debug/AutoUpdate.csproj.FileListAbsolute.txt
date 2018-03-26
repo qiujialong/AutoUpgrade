@@ -1,0 +1,24 @@
+C:\Users\jlqiu\Desktop\Auto_upgrade\bin\Debug\AutoUpdate.exe.config
+C:\Users\jlqiu\Desktop\Auto_upgrade\bin\Debug\AutoUpdate.exe
+C:\Users\jlqiu\Desktop\Auto_upgrade\bin\Debug\AutoUpdate.pdb
+C:\Users\jlqiu\Desktop\Auto_upgrade\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\jlqiu\Desktop\Auto_upgrade\bin\Debug\RestSharp.dll
+C:\Users\jlqiu\Desktop\Auto_upgrade\bin\Debug\RestSharp.xml
+C:\Users\jlqiu\Desktop\Auto_upgrade\obj\Debug\AutoUpdate.csprojResolveAssemblyReference.cache
+C:\Users\jlqiu\Desktop\Auto_upgrade\obj\Debug\Auto_upgrade.AutoUpgrade.resources
+C:\Users\jlqiu\Desktop\Auto_upgrade\obj\Debug\AutoUpdate.Properties.Resources.resources
+C:\Users\jlqiu\Desktop\Auto_upgrade\obj\Debug\Auto_upgrade.Upload.resources
+C:\Users\jlqiu\Desktop\Auto_upgrade\obj\Debug\AutoUpdate.csproj.GenerateResource.Cache
+C:\Users\jlqiu\Desktop\Auto_upgrade\obj\Debug\AutoUpdate.exe
+C:\Users\jlqiu\Desktop\Auto_upgrade\obj\Debug\AutoUpdate.pdb
+C:\Users\jlqiu\Desktop\Auto_upgrade - Copy\bin\Debug\AutoUpdate.exe.config
+C:\Users\jlqiu\Desktop\Auto_upgrade - Copy\obj\Debug\AutoUpdate.exe
+C:\Users\jlqiu\Desktop\Auto_upgrade - Copy\obj\Debug\AutoUpdate.pdb
+C:\Users\jlqiu\Desktop\Auto_upgrade - Copy\bin\Debug\AutoUpdate.exe
+C:\Users\jlqiu\Desktop\Auto_upgrade - Copy\bin\Debug\AutoUpdate.pdb
+C:\Users\jlqiu\Desktop\Auto_upgrade - Copy\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\jlqiu\Desktop\Auto_upgrade - Copy\bin\Debug\RestSharp.dll
+C:\Users\jlqiu\Desktop\Auto_upgrade - Copy\bin\Debug\RestSharp.xml
+C:\Users\jlqiu\Desktop\Auto_upgrade - Copy\obj\Debug\Auto_upgrade.AutoUpgrade.resources
+C:\Users\jlqiu\Desktop\Auto_upgrade - Copy\obj\Debug\AutoUpdate.Properties.Resources.resources
+C:\Users\jlqiu\Desktop\Auto_upgrade - Copy\obj\Debug\AutoUpdate.csproj.GenerateResource.Cache

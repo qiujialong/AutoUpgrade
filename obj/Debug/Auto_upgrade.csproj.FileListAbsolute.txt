@@ -1,0 +1,18 @@
+c:\users\jlqiu\documents\visual studio 2017\Projects\Auto_upgrade\bin\Debug\Auto_upgrade.exe.config
+c:\users\jlqiu\documents\visual studio 2017\Projects\Auto_upgrade\bin\Debug\Auto_upgrade.exe
+c:\users\jlqiu\documents\visual studio 2017\Projects\Auto_upgrade\bin\Debug\Auto_upgrade.pdb
+c:\users\jlqiu\documents\visual studio 2017\Projects\Auto_upgrade\obj\Debug\Auto_upgrade.csprojResolveAssemblyReference.cache
+c:\users\jlqiu\documents\visual studio 2017\Projects\Auto_upgrade\obj\Debug\Auto_upgrade.Properties.Resources.resources
+c:\users\jlqiu\documents\visual studio 2017\Projects\Auto_upgrade\obj\Debug\Auto_upgrade.csproj.GenerateResource.Cache
+c:\users\jlqiu\documents\visual studio 2017\Projects\Auto_upgrade\obj\Debug\Auto_upgrade.exe
+c:\users\jlqiu\documents\visual studio 2017\Projects\Auto_upgrade\obj\Debug\Auto_upgrade.pdb
+C:\Users\jlqiu\Desktop\Auto_upgrade\bin\Debug\Auto_upgrade.exe.config
+C:\Users\jlqiu\Desktop\Auto_upgrade\obj\Debug\Auto_upgrade.exe
+C:\Users\jlqiu\Desktop\Auto_upgrade\obj\Debug\Auto_upgrade.pdb
+C:\Users\jlqiu\Desktop\Auto_upgrade\bin\Debug\Auto_upgrade.exe
+C:\Users\jlqiu\Desktop\Auto_upgrade\bin\Debug\Auto_upgrade.pdb
+C:\Users\jlqiu\Desktop\Auto_upgrade\obj\Debug\Auto_upgrade.Properties.Resources.resources
+C:\Users\jlqiu\Desktop\Auto_upgrade\obj\Debug\Auto_upgrade.csproj.GenerateResource.Cache
+C:\Users\jlqiu\Desktop\Auto_upgrade\obj\Debug\Auto_upgrade.AutoUpgrade.resources
+C:\Users\jlqiu\Desktop\Auto_upgrade\obj\Debug\Auto_upgrade.csprojResolveAssemblyReference.cache
+C:\Users\jlqiu\Desktop\Auto_upgrade\bin\Debug\ICSharpCode.SharpZipLib.dll
