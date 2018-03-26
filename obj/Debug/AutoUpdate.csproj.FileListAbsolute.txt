@@ -22,3 +22,15 @@ C:\Users\jlqiu\Desktop\Auto_upgrade - Copy\bin\Debug\RestSharp.xml
 C:\Users\jlqiu\Desktop\Auto_upgrade - Copy\obj\Debug\Auto_upgrade.AutoUpgrade.resources
 C:\Users\jlqiu\Desktop\Auto_upgrade - Copy\obj\Debug\AutoUpdate.Properties.Resources.resources
 C:\Users\jlqiu\Desktop\Auto_upgrade - Copy\obj\Debug\AutoUpdate.csproj.GenerateResource.Cache
+D:\Work\Code\AutoUpgrade\bin\Debug\AutoUpdate.exe.config
+D:\Work\Code\AutoUpgrade\obj\Debug\AutoUpdate.exe
+D:\Work\Code\AutoUpgrade\obj\Debug\AutoUpdate.pdb
+D:\Work\Code\AutoUpgrade\bin\Debug\AutoUpdate.exe
+D:\Work\Code\AutoUpgrade\bin\Debug\AutoUpdate.pdb
+D:\Work\Code\AutoUpgrade\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Work\Code\AutoUpgrade\bin\Debug\RestSharp.dll
+D:\Work\Code\AutoUpgrade\bin\Debug\RestSharp.xml
+D:\Work\Code\AutoUpgrade\obj\Debug\AutoUpdate.csprojResolveAssemblyReference.cache
+D:\Work\Code\AutoUpgrade\obj\Debug\Auto_upgrade.AutoUpgrade.resources
+D:\Work\Code\AutoUpgrade\obj\Debug\AutoUpdate.Properties.Resources.resources
+D:\Work\Code\AutoUpgrade\obj\Debug\AutoUpdate.csproj.GenerateResource.Cache
